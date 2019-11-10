@@ -2,15 +2,22 @@
 
 VIP Humor Genome Project Comedian Identifier Machine Learning: Intra-recognition team
 
-Purpose
+Purpose:
+
 We aim to identify parts of transcripts that are intended to be humorous.
 
-Tutorial
+Tutorial:
+
 How to run the thing
 
 Contributors:
+
 Claudia Chu
+
 Anneli LeFranc
+
 Saloni Shah
+
 Jingbo Wang
+
 Ajay Vijayakumar
